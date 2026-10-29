@@ -1,0 +1,17 @@
+{
+  "uuid": "08b167d3-ac8d-4481-9b56-32ed7643db90",
+  "shortName": "Old Eyes",
+  "longName": "Old Eyes",
+  "companyName": "Old Eyes",
+  "versionCode": 1,
+  "versionLabel": "2.0.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk", "diorite", "emery", "flint", "gabbro"],
+  "watchapp": {
+    "watchface": true
+  },
+  "capabilities": ["health"],
+  "resources": {
+    "media": []
+  }
+}

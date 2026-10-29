@@ -1,0 +1,42 @@
+{
+  "author": "Old Eyes",
+  "keywords": [
+    "pebble-app",
+    "watchface"
+  ],
+  "name": "OldEyes",
+  "version": "1.0.0",
+  "pebble": {
+    "capabilities": [
+      "health"
+    ],
+    "displayName": "Old Eyes",
+    "messageKeys": [
+      "request",
+      "sunrise",
+      "sunset",
+      "weather_temp",
+      "weather_desc",
+      "place_name",
+      "weather_aqi"
+    ],
+    "projectType": "native",
+    "resources": {
+      "media": []
+    },
+    "sdkVersion": "3",
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery",
+      "flint",
+      "gabbro"
+    ],
+    "uuid": "08b167d3-ac8d-4481-9b56-32ed7643db90",
+    "watchapp": {
+      "watchface": true
+    }
+  }
+}
